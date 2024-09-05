@@ -1,0 +1,29 @@
+#input_name {
+    padding: 9px;
+    border: 2px solid #448fa3;
+    margin-right: 10px;
+}
+
+#display_name {
+    color: #104d68;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#display_name.error{
+    color: #d7263d;
+}
+
+#sayname_button {
+    color: #ececec;
+    background-color: #448fa3;
+    font-weight: bold;
+    padding: 9px;
+    border: 0;
+}
+
+#sayname_button:hover{
+    color: #fff;
+    background-color: #104d68;
+    cursor: pointer;
+}
